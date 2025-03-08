@@ -1,0 +1,66 @@
+[
+    {
+        "week": 1,
+        "date": "2025-03-05",
+        "HomeTeams": [
+            { "team": 1, "table": "Table 1" },
+            { "team": 0, "table": "Table 2" },
+            { "team": 6, "table": "Pub" },
+            { "team": 7, "table": "Table 3" }
+        ],
+        "AwayTeams": [
+            { "team": 2 },
+            { "team": 3 },
+            { "team": 5 },
+            { "team": 4 }
+        ]
+    },
+    {
+        "week": 2,
+        "date": "2025-03-12",
+        "HomeTeams": [
+            { "team": 1, "table": "Table 1" },
+            { "team": 0, "table": "Table 2" },
+            { "team": 6, "table": "Pub" },
+            { "team": 7, "table": "Table 3" }
+        ],
+        "AwayTeams": [
+            { "team": 2 },
+            { "team": 3 },
+            { "team": 5 },
+            { "team": 4 }
+        ]
+    },
+    {
+        "week": 3,
+        "date": "2025-03-19",
+        "HomeTeams": [
+            { "team": 4, "table": "Table 3" },
+            { "team": 0, "table": "Table 1" },
+            { "team": 7, "table": "Table 2" },
+            { "team": 3, "table": "C & A" }
+        ],
+        "AwayTeams": [
+            { "team": 4 },
+            { "team": 6 },
+            { "team": 1 },
+            { "team": 2 }
+        ]
+    },
+    {
+        "week": 4,
+        "date": "2025-03-26",
+        "HomeTeams": [
+            { "team": 6, "table": "Pub" },
+            { "team": 7, "table": "Table 1" },
+            { "team": 1, "table": "Table 3" },
+            { "team": 4, "table": "Table 2" }
+        ],
+        "AwayTeams": [
+            { "team": 7 },
+            { "team": 2 },
+            { "team": 3 },
+            { "team": 0 }
+        ]
+    }
+]

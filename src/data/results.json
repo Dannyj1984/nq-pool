@@ -1,0 +1,77 @@
+[
+  {
+    "fixtureWeek": 1,
+    "matches": [
+      {
+        "homeTeamId": 3,
+        "awayTeamId": 2,
+        "totalScore": {
+          "home": 3,
+          "away": 2
+        },
+        "games": [
+          {
+            "homePlayerId": 1,
+            "awayPlayerId": 4,
+            "winnerId": 1
+          },
+          {
+            "homePlayerId": 2,
+            "awayPlayerId": 5,
+            "winnerId": 5
+          },
+          {
+            "homePlayerId": 3,
+            "awayPlayerId": 6,
+            "winnerId": 3
+          },
+          {
+            "homePlayerId": 1,
+            "awayPlayerId": 5,
+            "winnerId": 1
+          },
+          {
+            "homePlayerId": 2,
+            "awayPlayerId": 4,
+            "winnerId": 4
+          }
+        ]
+      },
+      {
+        "homeTeamId": 6,
+        "awayTeamId": 5,
+        "totalScore": {
+          "home": 4,
+          "away": 1
+        },
+        "games": [
+          {
+            "homePlayerId": 1,
+            "awayPlayerId": 3,
+            "winnerId": 1
+          },
+          {
+            "homePlayerId": 2,
+            "awayPlayerId": 4,
+            "winnerId": 2
+          },
+          {
+            "homePlayerId": 3,
+            "awayPlayerId": 5,
+            "winnerId": 3
+          },
+          {
+            "homePlayerId": 1,
+            "awayPlayerId": 4,
+            "winnerId": 1
+          },
+          {
+            "homePlayerId": 2,
+            "awayPlayerId": 3,
+            "winnerId": 3
+          }
+        ]
+      }
+    ]
+  }
+]
