@@ -44,7 +44,6 @@ export default function FixturesPage() {
             for (const match of fixture.matches) {
                 for (const game of match.games) {
                     if (game.homePlayerId === playerId && game.winnerId === playerId) {
-                        console.log('won')
                         wins++;
                     } else if (game.awayPlayerId === playerId && game.winnerId === playerId) {
                         wins++;
@@ -171,7 +170,7 @@ export default function FixturesPage() {
 
     return (
         <div className="container mx-auto p-4 max-w-7xl">
-            <div className="grid grid-cols-12 gap-4">
+            <div className="flex flex-col md:grid md:grid-cols-12 gap-4">
                 <div className="col-span-9">
                     <h1 className="text-3xl font-bold mb-8 text-center">League Table</h1>
                     <div className="overflow-x-auto">
